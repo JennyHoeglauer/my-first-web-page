@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Original Header</h1>
+    <p>This is my new project.</p>
+</body>
+</html>
